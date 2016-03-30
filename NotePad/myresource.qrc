@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/notepad/icon">
+        <file>icons/Open.png</file>
+        <file>icons/Save.png</file>
+    </qresource>
+</RCC>
